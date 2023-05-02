@@ -1,5 +1,5 @@
 ## Willkommen bei Follow-Me!
-## ~ HTWD/SE-I1
+~ HTWD/SE-I1
 
 <!--
 
